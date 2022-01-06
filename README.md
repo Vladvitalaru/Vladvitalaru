@@ -7,7 +7,6 @@
 
 
 ### Contact 
-📫 vladvitalaru@yahoo.com
 
 :necktie: [linkedin](https://www.linkedin.com/in/vlad-vitalaru-9428a9229)
 
