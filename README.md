@@ -1,12 +1,11 @@
-## Hi my name is Vlad Vitalaru 👋 
-:mortar_board: Computer Science student at Washington State University Vancouver
+# Hi my name is Vlad Vitalaru 👋 
+:mortar_board: Computer science graduate from Washington State University Vancouver
 
-:globe_with_meridians: I’m interested in Computer & Network Security
+:globe_with_meridians: I’m interested in software development & operations
 
-:zap: My projects are mostly in Python, C & Java
+:zap: My projects are mostly web & mobile applications 
 
-
-### Contact 
+🌱 I’m currently learning Next.js with React
 
 :necktie: [linkedin](https://www.linkedin.com/in/vlad-vitalaru-9428a9229)
 
